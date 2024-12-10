@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Xuan Feng
-tags: [overview, moonwalk]
+tags: [paper, LLM, distributed training, data / model parallelism]
 ---
 
 ## PTD-P: reading notes

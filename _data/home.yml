@@ -5,34 +5,34 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: github
+    url: https://github.com/shannxf
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: PDT-P
+    url: PDT-P-reading-notes
+    desc: paper reading notes
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: distributed training basics
+    url: distributed-training-basics
+    desc: getting ready...
 
   - title: Project 3
-    url: overview-post
+    url: PDT-P-reading-notes
     desc: You can control visibility from _config.yml file
 
   - title: Project 4
-    url: overview-post
+    url: PDT-P-reading-notes
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
   - title: Project 5
-    url: overview-post
+    url: PDT-P-reading-notes
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
 
   - title: Project 6
-    url: overview-post
+    url: PDT-P-reading-notes
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:

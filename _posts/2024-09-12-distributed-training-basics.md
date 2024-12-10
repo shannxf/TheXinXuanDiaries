@@ -1,3 +1,8 @@
+---
+layout: post
+author: Xuan Feng
+tags: [distributed training, computer architecture]
+---
 ## 分布式训练：通信
 
 ### 1. broadcast
